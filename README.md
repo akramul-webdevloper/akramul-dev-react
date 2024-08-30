@@ -7,6 +7,7 @@
 
 
 Skills: - *Frontend Development:* React, JavaScript, HTML, CSS.
+https://profile-readme-generator.com
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React 
