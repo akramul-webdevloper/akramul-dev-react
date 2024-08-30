@@ -6,7 +6,7 @@
 - Passionate about building efficient and scalable frontend solutions.
 
 
-Skills: - *Frontend Development:* React, JavaScript, HTML, CSS.
+Skills: 🥶- *Frontend Development:* React, JavaScript, HTML, CSS.
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React 
