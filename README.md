@@ -28,4 +28,6 @@ Skills:  *Frontend Development:* React, JavaScript, HTML, CSS.🥶
 
 ![GitHub metrics](https://metrics.lecoq.io/akramul-dev-react)  
 
+.github/metrics.yml) 
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=akramul-dev-react)  
